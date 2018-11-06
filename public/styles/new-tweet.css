@@ -1,0 +1,19 @@
+h2 {
+    margin-top: 30px;
+    border-bottom: solid 1px black;
+}
+.new-tweet {
+    margin-left: 2em;
+    margin-right: 2em;
+    border-radius: 8px;
+    background: #e0e0e0;
+    padding: 0em 0.5em 0em 0.5em;
+}
+textarea {
+    overflow: scroll;
+    width: 370px; 
+    height: 80px;
+}
+.counter {
+    float: right;
+}
