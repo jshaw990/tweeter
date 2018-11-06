@@ -28,6 +28,13 @@ main {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+article {
+  width: 390px;
+  margin-top: 8px;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
