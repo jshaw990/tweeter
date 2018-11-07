@@ -15,3 +15,13 @@ nav {
     font-size: 200%;
     vertical-align: 0.8em;
 }
+#compose {
+    color: #00a087;
+    background-color: #e8fdff;
+    float: right;
+    vertical-align: middle;
+    height: 60px;
+    margin-top: 10px;
+    border: 0.05em solid black;
+    border-radius: 8px;
+}

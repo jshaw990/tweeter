@@ -35,6 +35,13 @@ article {
   margin-right: 2em;
 }
 
-/*
- * Additional CSS can be defined below or in other CSS files, as per instructions
- */
+.alert {
+  background-color: #FFFF99;
+  color: black;
+  width: 450px;
+  margin: 0 auto;
+  Border: 0.1em solid black;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+  text-align: center;
+  font-size: 120%;
+}

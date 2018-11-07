@@ -1,25 +1,26 @@
-section.tweet {
+article {
     border: .1em solid #e0e0e0;
     border-radius: 8px;
     /* background-color: black; */
     padding: .0em .0em .0em .0em
 }
-section.avatar {
+article.avatar {
     float: left;
 }
 
-section.handle {
+article.handle {
     float: right;
 }
-header.chirpHead {
+article.header {
     border-bottom: 0.05em solid #e0e0e0;
-    background-color: #e0e0e0;
+    background-color: black;
     margin-left: 0.1em;
 }
-footer.chirpFoot {
+#tweets-container.footer {
     margin-left: 0.3em;
     float: left; 
+    border-top: 0.05em solid #e0e0e0;
 }
-article.chirp:hover {
+article:hover {
     border: 0.2em solid #d3d3d3;
 }
