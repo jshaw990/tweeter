@@ -35,6 +35,13 @@ article {
   margin-right: 2em;
 }
 
+article.textarea {
+  margin-left: 2em;
+  margin-right: 2em;
+  background-color: black;
+}
+
+
 .alert {
   background-color: #FFFF99;
   color: black;
