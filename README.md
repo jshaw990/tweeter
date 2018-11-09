@@ -11,6 +11,8 @@ This repository is the starter code for the project: Students will fork and clon
 ## Known Issues and Dev Notes
 Project was done working with Cam Gehmlich in a paired programming capacity, some code may look familiar between two assignments. 
 
+All Tweets are from Donald Trump, Kanye West, and I am Developer, no offense is intended. 
+
 No known issues are present
 
 ## Usage
