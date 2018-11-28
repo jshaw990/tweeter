@@ -12,8 +12,8 @@ function createTweetElement(tweet) {
       <span name="username" style="vertical-align:top">${tweet.user.name}</span>
       <span name="handle" style="float:right">${tweet.user.handle}</span>
     </header>
-    <textarea readonly name="tweet">${tweet.content.text}</textarea>
-    <footer>
+    <span readonly name="tweet">${tweet.content.text}</span><hr>
+    <footer class="contFoot">
       <span name="days">${moment(tweet.created_at).fromNow()}</span>
       <img name="flags" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/triangular-flag-on-post_1f6a9.png">
       <img name="flags" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/155/anticlockwise-downwards-and-upwards-open-circle-arrows_1f504.png">
